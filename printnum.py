@@ -1,11 +1,11 @@
-a = 2000
-b = 6000
-sum = a + b
-print(sum)
-# sum
-
 a = 10
 b = 6
 diff = a - b
 print(diff)
 # diff
+
+#arithmetic operators
+a = 5
+b = 7
+sum = a + b
+print(sum)
