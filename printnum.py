@@ -46,3 +46,8 @@ num = 10
 num *= 10
 print("num:", num)#0
 
+
+num = 10
+num **= 5
+print("num:", num)#0
+
