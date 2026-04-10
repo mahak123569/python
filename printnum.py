@@ -51,3 +51,15 @@ num = 10
 num **= 5
 print("num:", num)#0
 
+
+# logical
+
+num = 50
+num *= 30
+print(not False)
+
+print(not (a>b))
+
+val1 = True
+val2 = True
+print("ans operator", val1 and val2)
