@@ -36,3 +36,13 @@ print(a >= b)
 print(a > b)
 print(a <= b)
 print(a < b)
+
+#assignment operator
+num = 10
+num += 10
+print("num:", num)#0
+
+num = 10
+num *= 10
+print("num:", num)#0
+
