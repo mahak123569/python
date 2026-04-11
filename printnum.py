@@ -79,3 +79,4 @@ print(type(a))
 
 val = input("enter some value: ")
 print(type(val), val) 
+
