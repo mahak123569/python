@@ -73,3 +73,9 @@ print(a + b)
 a = 3.14
 a = str(a)
 print(type(a))
+   
+
+#input output
+
+val = input("enter some value: ")
+print(type(val), val) 
