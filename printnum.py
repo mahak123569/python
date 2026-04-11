@@ -63,3 +63,13 @@ print(not (a>b))
 val1 = True
 val2 = True
 print("ans operator", val1 and val2)
+# type comversion
+a = float("2") 
+b =  4.25
+print(type(a))
+print(a + b)
+
+
+a = 3.14
+a = str(a)
+print(type(a))
