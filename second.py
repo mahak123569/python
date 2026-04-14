@@ -6,3 +6,11 @@ marks = float(input("enter marks: "))
 print("welcome", name)
 print("age", age)
 print("marks", marks)
+
+
+#input 2 num put there sum
+first =int(input("enter first:"))
+second =int(input("enter second:"))
+
+print("sum =", first + second)
+
