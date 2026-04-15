@@ -9,6 +9,8 @@ print("marks", marks)
 
 
 #input 2 num put there sum
+# take first and second 
+# lk,l
 first =int(input("enter first:"))
 second =int(input("enter second:"))
 
