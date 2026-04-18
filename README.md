@@ -1,6 +1,7 @@
 writen python code 
 
 basic question
+
 string 
 opertator
 
