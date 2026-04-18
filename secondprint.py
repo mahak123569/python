@@ -7,4 +7,6 @@ print(final_str)
 
 str4 ="this is a can .\nnew car gifted by me."
 print(str4)
-
+str5 = "collage"
+str[5] = "l"
+print(str)
