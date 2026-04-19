@@ -14,3 +14,7 @@
 # slicing
 str = "apple"
 print(str[-5:-2])
+
+str ="i an ananya"
+str =str.capitalize()
+print(str)
