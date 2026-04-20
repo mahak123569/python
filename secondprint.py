@@ -26,7 +26,11 @@ str= "i am studiying python"
 print(str.replace("python","javascript"))
 
 str= "i am studiying python"
-print(str.find("am"))
+print(str.find("am "))
+
+str= "i am studiying python"
+print(str.count("i"))
+
 
 
 
