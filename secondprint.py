@@ -12,9 +12,22 @@
 # print(str)
 
 # slicing
-str = "apple"
-print(str[-5:-2])
+# str = "apple"
+# print(str[-5:-2])
 
-str ="i an ananya"
-str =str.capitalize()
-print(str)
+# str ="i an ananya"
+# str =str.capitalize()
+# print(str)
+
+str= "i am studiying python"
+print(str.replace("o","a"))
+
+str= "i am studiying python"
+print(str.replace("python","javascript"))
+
+str= "i am studiying python"
+print(str.find("am"))
+
+
+
+
