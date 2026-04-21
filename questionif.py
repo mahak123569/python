@@ -1,4 +1,5 @@
-age = 26
-if(age >= 18):
-    print("can vote ")
-    print("can drive")
+# age = 26
+# if(True):
+#     print("can vote ")
+#     print("can drive")
+
