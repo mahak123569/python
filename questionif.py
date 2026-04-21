@@ -29,5 +29,5 @@ age = 15
 if(age >= 18):
     print("can vote ")
 else :   
-    print("CANNOT VOTE")
+    print("CANNOT VOTE")# INDENTATION PROPER SPACE
 
