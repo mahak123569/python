@@ -22,3 +22,7 @@ print(list)
 list = ['a' , 'b' ,'c' , 'd', 'e']
 print(list.sort())
 print(list)
+# reerse
+list = ['a' , 'b' ,'c' , 'd', 'e']
+list.reverse()
+print(list)
