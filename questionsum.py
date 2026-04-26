@@ -26,3 +26,7 @@ print(list)
 list = ['a' , 'b' ,'c' , 'd', 'e']
 list.reverse()
 print(list)
+# insert
+list = [2,1,3]
+list.insert(1,5)
+print(list)
