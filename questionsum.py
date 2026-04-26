@@ -12,8 +12,13 @@
 #list slicing
 marks = [85, 94, 76, 63,48]
 print(marks[-3:-1])
-
+ 
 list = [ 2, 1, 3]
 print(list.append(4))
+print(list.sort())
+print(list)
+
+# sort 
+list = ['a' , 'b' ,'c' , 'd', 'e']
 print(list.sort())
 print(list)
