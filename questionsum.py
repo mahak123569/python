@@ -35,3 +35,7 @@ print(list)
 list = [2,1,3]
 list.pop(2)
 print(list)
+#tuple
+tup = (1,2,3,4)
+print(tup)
+print(type(tup))
