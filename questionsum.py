@@ -39,3 +39,9 @@ print(list)
 tup = (1,2,3,4)
 print(tup)
 print(type(tup))
+# insert 
+tup = (1,2,3,4)
+print(tup.index(2))
+#count
+tup = (1,2,3,4,2,2)
+print(tup.count(2))
